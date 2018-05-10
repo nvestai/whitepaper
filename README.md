@@ -3,8 +3,9 @@ please see www.nvest.ia for the most up to date version
 
 
  
-Revolutionary Crypto Data & Analytics Platform
-April 28, 2018, White Paper version 1.0
+#Revolutionary Crypto Data & Analytics Platform
+#April 28, 2018, White Paper version 1.0
+
 Abstract — As the evolution of cryptocurrencies progresses, the velocity, variety and volume of data makes it difficult for traders and investors to keep up with all the news & developments. This is exemplified with the recent explosion of new project launches (ICO’s) be-ginning in 2017, in addition to the important advances amongst well-established projects. 
     There is simply too much data for the human brain to process. Yet successful investing often requires one to analyze large amounts of data from a variety of sources to be able to find the signal from the noise and spot trends before the crowd. Therefore, investors who can harness insights from data will be one step ahead.
     Recent advances in AI and Machine Learning are perfectly suited for decision making tasks made on large, complex data sets and can provide unparalleled insights beyond simple human abilities. However such sophisticated technologies require both technical and domain expertise to fully leverage their application to crypto markets. 
@@ -14,8 +15,9 @@ Compared to other companies we think that: Bloomberg + Facebook + Tableau = nves
 
 Mission Statement— Create a revolutionary crypto data and analytics platform by combining accessible AI technologies with incentivized community participation. Nvest.ai – Complexity Simplified Elegantly
 www.nvest.ai//whitepaper.pdf
-——————————      ——————————
-1	INTRODUCTION 
+#——————————      ——————————
+
+##1	INTRODUCTION 
 TECHNOLGY  is changing every industry. Complex tasks like investing and trading are easily performed by machines when they have the appropriate data and instructions. While some academics assume markets are perfectly efficient and all data and information is reflected in market prices, in the real-world traders and investors know that’s almost never the case. In a world awash with data and where Machine Learning is in-creasingly being adopted, nvest provides a technology solution for traders and investors, by providing them the tools they need to make better decisions. The follow-ing principles guide the nvest project: 
 1.	In today’s crypto markets, users who adopt a technolo-gy strategy to capture insights from data and harness sophisticated machine learning algorithms have an edge over users who do not have any technology strategy. 
 2.	All users should have access to powerful algorithms, regardless of their technical background.
